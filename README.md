@@ -1,4 +1,3 @@
 # NAVİGATİON BAR EXAMPLE, NAVİGATE
-## IOS
-     AND
-## ANDROİD
+     IOS
+     ANDROİD
